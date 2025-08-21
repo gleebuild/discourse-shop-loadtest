@@ -1,7 +1,0 @@
-
-en:
-  site_settings:
-    shop_test_enabled: "Enable Shop LoadTest plugin"
-    shop_test_strategy: "Strategy for wiring routes"
-    shop_test_nav_inject: "How to add navigation links"
-    shop_test_route_prefix: "Route prefix (default 'shop')"
